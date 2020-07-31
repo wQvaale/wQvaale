@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halla 🤙
 <a href="https://dev.to/wquole">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="William Kvaale's DEV Profile" height="30" width="30">
 </a>

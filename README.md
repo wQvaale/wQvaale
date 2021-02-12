@@ -1,4 +1,3 @@
-### Halla 🤙
 <a href="https://www.linkedin.com/in/williamkvaale/">
   <img src="https://www.svgrepo.com/show/204944/linkedin.svg" alt="William Kvaale's LinmkedIn Profile" height="30" width="30">
 </a>
@@ -6,6 +5,9 @@
 <a href="https://brainntnu.no">
   <img src="https://www.svgrepo.com/show/100814/brain.svg" alt="BRAIN NTNU" height="30" width="30">
 </a>
+
+<img src="https://i.imgur.com/aHD3YBK.png" alt="Hello World" height="240">
+🤙
        
 <!--
 **wQuole/wQuole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/aHD3YBK.png" alt="Hello World" height="240">
+<img src="https://i.imgur.com/aHD3YBK.png" alt="Hello World" height="240" style="pointer-events:none;">
 
 <a href="https://www.linkedin.com/in/williamkvaale/">
   <img src="https://www.svgrepo.com/show/204944/linkedin.svg" alt="William Kvaale's LinmkedIn Profile" height="30" width="30">

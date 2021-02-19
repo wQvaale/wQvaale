@@ -6,4 +6,6 @@
   <img src="https://www.svgrepo.com/show/100814/brain.svg" alt="BRAIN NTNU" height="30" width="30">
 </a> 
 
-<img src="https://github.com/wQuole/wQuole/blob/master/files/MARIO_STAGE.gif?raw=true" width="100%">
+<a href="https://youtu.be/ZjgcqkUPjF8">
+  <img src="https://github.com/wQuole/wQuole/blob/master/files/MARIO_STAGE.gif?raw=true" width="100%">
+</a>

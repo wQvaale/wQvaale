@@ -9,5 +9,3 @@
 <a href="https://youtu.be/ZjgcqkUPjF8">
   <img src="https://github.com/wQuole/wQuole/blob/master/files/MARIO_STAGE.gif?raw=true" width="100%">
 </a>
-
-test

@@ -1,9 +1,9 @@
 <a href="https://www.linkedin.com/in/williamkvaale/">
-  <img src="https://www.svgrepo.com/show/204944/linkedin.svg" alt="/in/williamkvaale" height="30" width="30">
+  <img src="https://www.svgrepo.com/show/204944/linkedin.svg" alt="/in/williamkvaale" height="40" width="40">
 </a>
 
 <a href="https://brainntnu.no">
-  <img src="https://www.svgrepo.com/show/100814/brain.svg" alt="BRAIN NTNU" height="30" width="30">
+  <img src="https://www.svgrepo.com/show/100814/brain.svg" alt="BRAIN NTNU" height="40" width="40">
 </a> 
 
 <a href="https://youtu.be/ZjgcqkUPjF8">

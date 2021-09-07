@@ -1,5 +1,5 @@
 <a href="https://www.strise.ai">
-  <img src="https://www.google.com/s2/favicons?sz=64&domain_url=app.strise.ai" alt="Strise.ai" height="30" width="30">
+  <img src="https://www.google.com/s2/favicons?sz=64&domain_url=app.strise.ai" alt="strise.ai" height="30" width="30">
 </a>
 
 <a href="https://brainntnu.no">

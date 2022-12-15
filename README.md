@@ -1,7 +1,3 @@
-<a href="https://www.strise.ai">
-  <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://strise.ai&size=256" alt="strise.ai" height="30" width="30">
-</a>
-
 <a href="https://www.linkedin.com/in/williamkvaale/">
   <img src="https://www.svgrepo.com/show/204944/linkedin.svg" alt="/in/williamkvaale" height="30" width="30">
 </a>

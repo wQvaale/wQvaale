@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/williamkvaale/">
+<a href="https://www.linkedin.com/in/williamqvaale/">
   <img src="https://www.svgrepo.com/show/204944/linkedin.svg" alt="/in/williamkvaale" height="30" width="30">
 </a>
 
